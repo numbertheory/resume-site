@@ -1,3 +1,27 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://example.com'
+languageCode = "en-us"
+title = 'Personal Site'
+theme = 'anatole'
+
+[params]
+title = "John-Peter Etcheber"
+author = "JP Etcheber"
+description = "Call me JP."
+profilePicture = "images/profile.jpg"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/jpetcheber/"
+
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "github"
+url = "https://github.com/numbertheory"
+
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/jpscribbles"
