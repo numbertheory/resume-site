@@ -26,3 +26,10 @@ url = "https://github.com/numbertheory"
 icon = "fab fa-twitter"
 title = "twitter"
 url = "https://twitter.com/jpscribbles"
+
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
