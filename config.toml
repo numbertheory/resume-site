@@ -27,6 +27,12 @@ icon = "fab fa-twitter"
 title = "twitter"
 url = "https://twitter.com/jpscribbles"
 
+[[params.socialIcons]]
+icon = "fab fa-mastodon"
+title = "mastodon"
+url = "https://hachyderm.io/@numbertheory"
+rel = "me"
+
 [module]
   # uncomment line below for temporary local development of module
   # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
