@@ -2,6 +2,7 @@ baseURL = 'https://example.com'
 languageCode = "en-us"
 title = 'Personal Site'
 theme = 'anatole'
+contentDir = 'content'
 
 [params]
 title = "John-Peter Etcheber"
