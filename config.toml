@@ -9,6 +9,8 @@ title = "John-Peter Etcheber"
 author = "JP Etcheber"
 description = "Call me JP."
 profilePicture = "images/profile.jpg"
+hidesidebar = true
+contentratio = 0.8
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
