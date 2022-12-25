@@ -4,6 +4,12 @@ date: 2022-12-09T14:34:16-08:00
 draft: false
 ---
 
+{{<table "table">}}
+| Header 1 |
+|----------|
+| Item 1   |
+| Item 1a  | 
+{{</table>}}
 ### Current Position (Autodesk Inc.)
 
 I currently work for Autodesk Inc., on the Autodesk Cloud Solutions Infrastructure team for the Autodesk Construction Cloud. We solve the problem of documentation management for construction projects during the build cycle.

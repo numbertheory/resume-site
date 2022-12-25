@@ -1,0 +1,15 @@
+.html.theme--dark .table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #FaFaFa;
+    border: 2;
+    border-color: black;
+}
+
+.html.theme--light .table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #464646;
+    border: 2;
+    border-color: black;
+}
