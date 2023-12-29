@@ -43,4 +43,4 @@ The symbols for Python, NodeJS, and git tags won't render in a normal browser, b
 
 ## Screenshot
 
-![Screenshot of Starship in action.](/images/node_git_python_status.png)
+![Screenshot of Starship in action.](/resume-site/images/node_git_python_status.png)
