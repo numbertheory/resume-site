@@ -4,7 +4,12 @@ date: 2022-12-09T14:34:16-08:00
 draft: false
 ---
 
-### Current Position (Autodesk Inc.)
+## Developer Productivity
+
+- [Current Starship.rs configuration](starship/)
+
+
+## Current Position (Autodesk Inc.)
 
 I currently work for Autodesk Inc., on the Autodesk Cloud Solutions Infrastructure team for the Autodesk Construction Cloud. We solve the problem of documentation management for construction projects during the build cycle.
 
