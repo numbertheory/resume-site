@@ -1,4 +1,4 @@
-baseURL = 'https://example.com'
+baseURL = 'https://numbertheory.github.io/resume-site/'
 languageCode = "en-us"
 title = 'Personal Site'
 theme = 'anatole'
@@ -29,6 +29,11 @@ icon = "fab fa-mastodon"
 title = "mastodon"
 url = "https://hachyderm.io/@numbertheory"
 rel = "me"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-letterboxd"
+title = "letterboxd"
+url = "https://letterboxd.com/jproughcut/films/reviews/"
 
 [module]
   # uncomment line below for temporary local development of module
